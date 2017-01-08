@@ -102,7 +102,10 @@ body {
   margin-top: 70px;
 }
 
-
+.project{
+	float: left;
+	padding-left: 70px;
+}
 
 
 
