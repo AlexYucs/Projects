@@ -109,7 +109,13 @@ body {
 .project a{
 	color: #00007F;
 }
-
+.project .btn-lg {
+  padding: 10px 20px;
+  font-weight: bold;
+  border-radius: 15px;
+  color: #464646;
+  background-color: #66CCFF;
+}
 
 
 /*
