@@ -252,18 +252,18 @@ body {
 	.site-wrapper {
 
 	  display: table;
-	  width: 350px;
+	  width: 320px;
 	  height: 100%; /* For at least Firefox */
 	  min-height: 100%;
 	  margin-top: 70px;
 	}
 	.row {
 		display: table;
-		width: 350px;
+		width: 320px;
 	}
 	.project{
 		float: left;
-		width: 350px;
+		width: 320px;
 		text-align: left;
 		padding-left: 20px;
 	}
