@@ -103,6 +103,8 @@ body {
 }
 
 .project{
+	float: left;
+	width: 50%;
 	text-align: left;
 	padding-left: 20px;
 }
