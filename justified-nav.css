@@ -228,3 +228,15 @@ body {
     width: 700px;
   }
 }
+@media only screen and (max-device-width: 640px) {
+	.row {
+		display: table;
+		width: 100%;
+	}
+	.project{
+		float: left;
+		width: 100%;
+		text-align: left;
+		padding-left: 20px;
+	}
+}
