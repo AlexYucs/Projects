@@ -102,7 +102,7 @@ body {
   margin-top: 70px;
 }
 .row {
-	display: inline-block;
+	display: table;
 	width: 100%;
 }
 .project{
