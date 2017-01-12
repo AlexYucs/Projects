@@ -178,6 +178,9 @@ h4{
  * Affix and center
  */
 @media only screen and (max-device-width: 640px) {
+	li {
+		width:25%;
+	}
 	.site-wrapper {
 
 		display: table;
@@ -198,6 +201,9 @@ h4{
 	}
 }
 @media only screen and (max-device-width: 480px) {
+	li {
+		width:25%;
+	}
 	.site-wrapper {
 
 		display: table;
